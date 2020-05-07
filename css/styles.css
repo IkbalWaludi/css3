@@ -1,0 +1,171 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 170%;
+  color: #11999E;
+
+}
+
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 0px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #11999E;
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  font: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border-color: #d4d4d4;
+  border-style: dotted none none;
+  width: 100px;
+  border-width: 10px;
+}
+
+.img1{
+  position: sticky;
+  width: 50%;
+  border-radius: 25%;
+}
+
+.foto {
+  width: 50%;
+  border-radius: 100%;
+  border-style: solid;
+  border-width: thick;
+  border-color: #11999E;
+}
+
+.foto2 {
+  margin : -70px 80% auto auto;
+  width: 150px;
+  border-radius: 100%;
+  border-style: solid;
+  border-width: thick;
+  border-color: grey;
+}
+
+.top-c {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top{
+  margin-top: 0;
+  height: 50px;
+  background-color: black;
+}
+
+.top-link{
+  margin-top: -125px;
+  margin-bottom: 100px;
+  padding-left: 60%;
+}
+
+.bottom-c{
+  background-color: #E4F9F5;
+  position: relative;
+  margin-top: 50px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.bottom-line{
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #11999E;
+  width: 15%;
+  margin-left: 42.5%;
+}
+
+.bottom{
+  background-color: white;
+  margin: 200px;
+}
+
+
+.footer-link1{
+  font-size: 23px;
+  margin: 25px;
+  text-decoration: none;
+  color: #66BFBF;
+}
+
+.footer-link{
+  font-size: 25px;
+  margin: 25px;
+  text-decoration: none;
+  color: grey;
+}
+
+.footer-link2{
+  font-size: 20px;
+  margin: 20px;
+  text-decoration: none;
+  color: #66BFBF;
+}
+
+.code-img{
+  width: 35%;
+  margin-right: 50px;
+  float: left;
+}
+
+.chili-img {
+  width: 35%;
+  float: right;
+  margin-left: 50px;
+  position: relative;
+}
+
+.deskripsi{
+  width: 80%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-family: 'Comic Sans MS';
+  color: #11999E;
+}
+
+.deskripsi2{
+  margin: 0 auto 100px auto;
+  line-height: 2;
+  font-family: 'Comic Sans MS';
+  color: #11999E;
+}
+
+.profile{
+  text-align: center;
+  width: 50%;
+  font-size: 80%;
+  margin: 100px auto 100px auto;
+  font-family: 'Comic Sans MS';
+}
+
+.calon{
+  font-size: 25px;
+  margin-top: 0;
+  margin-top: -25px;
+}
+
+.hai{
+  margin: 5px auto 5px auto;
+  font-size: 200%;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
